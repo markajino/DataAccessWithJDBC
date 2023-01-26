@@ -32,3 +32,8 @@ Springboot + Maven is used to build this project.
 ## Chinook Database ERD
 ![chinookERD](https://user-images.githubusercontent.com/46632994/214954272-1f00cdff-8299-4c90-a0ed-59e73f729889.png)
 
+## Maintainers
+**George Markozanis** - https://github.com/markajino
+
+**Christos Vlachos** - https://github.com/ChristosVlachos2000
+
