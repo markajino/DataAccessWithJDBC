@@ -1,7 +1,8 @@
 # DataAccessWithJDBC
 
-**Project Stack**:
+## Project Stack:
 We used **Springboot + Maven** to build this project.
+
 For the .sql scripts we used **PostgreSQL**.
 
 
